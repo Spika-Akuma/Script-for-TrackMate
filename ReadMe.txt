@@ -1,3 +1,5 @@
+This script was made for Fiji (https://fiji.sc/) with the plugins CSBDeep (https://github.com/CSBDeep/CSBDeep_fiji), TrackMate (https://github.com/trackmate-sc/TrackMate) and StarDist (https://github.com/stardist/stardist-imagej).
+
 How to use the Automatize.py:
 
 Underneath you will find the steps to use the Jython
